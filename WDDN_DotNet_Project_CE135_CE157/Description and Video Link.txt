@@ -1,0 +1,8 @@
+DESCRIPTION :-
+
+The main purpose of this project is to serve the students for choosing subjects as per their interest and convenience, Students will be provided with detailed information in the portal  about subjects making their decision easier and confirmed. And also proves helpful for the university to fetch detailed information of subjects opted by students for the given subjects options.
+
+LINK FOR THE VIDEO:-
+
+https://drive.google.com/file/d/1KtutMiM8xspvBB0oW4UhFG5A_Mf_lfWD/view?usp=sharing
+
